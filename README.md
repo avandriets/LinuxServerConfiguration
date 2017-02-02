@@ -1,7 +1,7 @@
 # Linux Server Configuration.
 Description for project Linux Server Configuration
 
-1. Server IP address 52.34.125.84 SSH port 2200
+1. Server IP address 35.160.201.101 SSH port 2200
 2. URL to project site [Item Catalog](http://ec2-35-160-201-101.us-west-2.compute.amazonaws.com/)
 3. Bash history
     - grader's user bash history
